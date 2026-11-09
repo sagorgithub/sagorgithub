@@ -1,84 +1,94 @@
 <div align="center">
 
-# Hi, I'm MD Sagor Hosen 👋
+# Hi, I'm Sagor 👋
 
-### Web Developer · E-commerce Builder · Cybersecurity Learner
+### Website Design & Development
 
-I build practical web experiences and keep growing my skills in secure, reliable technology.
+I build web projects and keep learning new technologies.
 
-[![Profile views](https://komarev.com/ghpvc/?username=sagorgithub&style=for-the-badge&color=2563eb)](https://github.com/sagorgithub)
-[![GitHub followers](https://img.shields.io/github/followers/sagorgithub?style=for-the-badge&color=0f9d78)](https://github.com/sagorgithub?tab=followers)
+<a href="https://github.com/sagorgithub" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-sagorgithub-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=sagorgithub&style=for-the-badge&color=2f80ed" alt="Profile views" />
+
+</div>
+
+<div align="center">
+
+---
+
+## 🌐 Connect with Me
+
+<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.youtube.com/@YOUR_YOUTUBE_CHANNEL" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
-- 🎓 Diploma in Computer Engineering
-- 🛍️ Building e-commerce websites, store dashboards, and useful business tools
-- 🐍 Working with Python and Django, alongside front-end web technologies
-- 🛡️ Learning cybersecurity through ethical, authorized practice
-- 🌱 Exploring web security, bug bounty fundamentals, SOC and blue-team concepts, and computer networking
-- 🤝 Interested in learning, sharing, and collaborating on practical projects
+- 🇧🇩 Based in Bangladesh
+- 🌱 Learning Python, Django, PHP, and web development
+- 🛍️ Building a WearBari e-commerce project
+- 🔐 Interested in cybersecurity and software development
 
-> Security note: bug bounty and security testing should only be performed on systems where permission has been granted.
+---
 
-## 🧭 Current focus
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Web development</h3>
-      <p>Creating responsive websites and Django-powered applications, including e-commerce workflows, admin tools, and media handling.</p>
-      <p><strong>Focus:</strong> Python · Django · HTML · CSS · JavaScript · SQL</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 Cybersecurity learning</h3>
-      <p>Building a foundation in networking and web security, with an interest in responsible bug bounty work and SOC/blue-team monitoring.</p>
-      <p><strong>Focus:</strong> Networking · Web security · Ethical bug bounty · SOC fundamentals</p>
-    </td>
-  </tr>
-</table>
-
-## 🧰 Technologies and tools
+## 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Networking-2563EB?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=owasp&logoColor=white" alt="Cybersecurity learning" />
+  <img
+    src="https://skillicons.dev/icons?i=python,django,php,sqlite,html,css,js,bootstrap,mysql,git,github,vscode"
+    alt="Python, Django, PHP, SQLite, HTML, CSS, JavaScript, Bootstrap, MySQL, Git, GitHub and VS Code"
+  />
 </p>
 
-## 📊 GitHub activity
+---
+
+## 📊 GitHub Results
+
+<p align="center">
+  <a href="https://github.com/sagorgithub" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=sagorgithub&show_icons=true&theme=tokyonight&rank_icon=default"
+      alt="GitHub statistics and rank"
+      height="190"
+    />
+  </a>
+  <a href="https://github.com/sagorgithub" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=sagorgithub&layout=donut&theme=tokyonight&langs_count=6"
+      alt="Most used programming languages"
+      height="190"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sagorgithub" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://streak-stats.demolab.com/?user=sagorgithub&theme=dark&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=bf91f3&sideLabels=70a5fd&dates=38bdae&timezone=Asia%2FDhaka"
+      alt="GitHub contributions and streak"
+      height="190"
+    />
+  </a>
+</p>
+
+---
 
 <div align="center">
 
-[![Sagor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagorgithub&show_icons=true&hide_border=true&theme=transparent)](https://github.com/sagorgithub)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagorgithub&layout=compact&hide_border=true&theme=transparent)](https://github.com/sagorgithub)
-
-</div>
-
-## 🤝 Connect with me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagorhosenrased)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sagorhosenrased)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sagorhossenrased)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sagor-dev)
-
-</div>
-
-<div align="center">
-
-*Building step by step. Learning every day.*
+### Thanks for visiting my profile! ⭐
 
 </div>
